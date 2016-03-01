@@ -22,3 +22,4 @@ Membres | Statut |
 @bloodyowl | 🍻
 @skinnyfoetusboy | :shipit:
 @remitbri | 🦄
+@revolunet | :metal:
