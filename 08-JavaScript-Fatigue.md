@@ -25,3 +25,4 @@ Membres | Statut |
 @revolunet | :metal:
 @kud | 😺
 @arnaudlimbourg | 🐠
+@harrisfreddy | 🍥
