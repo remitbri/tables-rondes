@@ -26,3 +26,4 @@ Altima Paris, 101 rue Réaumur
 Membres | Statut |
 --------|:------:|
 @bloodyowl | 🍻
+@remitbri | 👾
