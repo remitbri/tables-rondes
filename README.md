@@ -4,10 +4,12 @@
 
 ## À venir
 
-- [JavaScript fatigue](08-JavaScript-Fatigue.md)
+- [Abstractions](09-Abstractions.md)
+
 
 ## Évenements passés
 
+- [JavaScript fatigue](08-JavaScript-Fatigue.md)
 - [Process Workflow](past-events/07-Process-Workflow.md)
 - [Build Tools](past-events/06-Build-Tools.md)
 - [ES6](past-events/05-ES6.md)
